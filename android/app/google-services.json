@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625038332916",
+    "project_id": "ugo-taxi-b5989",
+    "storage_bucket": "ugo-taxi-b5989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625038332916:android:dc11d290a8783a17699fa1",
+        "android_client_info": {
+          "package_name": "com.arnomalone.u_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625038332916-cnugeb5d32r4la2vmle8pksl1h4l1659.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkrbzQeEps7uBml8MgPx5hvOZhKpKFX1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625038332916-cnugeb5d32r4la2vmle8pksl1h4l1659.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
